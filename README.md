@@ -1,13 +1,12 @@
 ## Portafolio Web Responsive
 
 #### Video:
-- <a href="https://useranonimo00001.wistia.com/medias/kto01y6bqg">Full Screen</a>
-- <a href="https://useranonimo00001.wistia.com/medias/5tsb4lybdb">Responsive 375x812</a>
+- <a href="">Full Screen</a>
+- <a href="">Responsive 375x812</a>
 </br>
 
 ### Screenshots (Full Screen):
 
-![Captura de pantalla (175)](https://user-images.githubusercontent.com/75953873/129668138-59726c12-189f-47ac-a22c-94cbe6de17d2.png)
 
 ![Captura de pantalla (176)](https://user-images.githubusercontent.com/75953873/129668226-f1702643-688d-42f4-b361-1b2604516e23.png)
 
