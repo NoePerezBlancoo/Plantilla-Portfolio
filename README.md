@@ -1,8 +1,5 @@
 ## Portafolio Web Responsive
 
-#### Video:
-- <a href="">Full Screen</a>
-- <a href="">Responsive 375x812</a>
 </br>
 
 ### Screenshots (Full Screen):
